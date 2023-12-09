@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://md-hadi.web.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sites.google.com/view/nazim-me/home)
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **hadiuzzaman.cse.bd@gmail.com**
+- 📫 How to reach me **hredoy0181@gmail.com**
 
-- 📄 Know about my experiences? [View My Resume](https://drive.google.com/file/d/1MSi0XZoXStX1TvqP9NUBgbJOKdvaFqpP/view?usp=share_link)
+- 📄 Know about my experiences? [View My Resume]()
 
 
 
