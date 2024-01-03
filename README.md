@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazim Uddin</h1>
-<h3 align="center">Mobile application developer & problem solver</h3>
+<h3 align="center">PROBLEM SOLVER</h3>
 
 - 🌱 I’m currently learning **Swift**
 
